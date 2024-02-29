@@ -1,6 +1,3 @@
-Here's a README file for your Task Tracker project:
-
----
 
 # Task Tracker 2.O
 
