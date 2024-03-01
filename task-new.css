@@ -5,6 +5,7 @@
   border-radius: 5px;
   padding: 20px;
 }
+
 .task {
   padding: 5px;
   margin-bottom: 5px;
@@ -13,4 +14,8 @@
   border-radius: 5px;
   cursor: move;
   overflow: auto;
+}
+
+.hidden {
+  display: none;
 }
