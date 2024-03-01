@@ -7,6 +7,7 @@ Task Tracker is a web application built with HTML, CSS, and JavaScript that allo
 - Add new tasks with name, description, due date, and total hours required.
 - Drag and drop tasks between different stages (Backlog, Selected, Running, In Review, Done).
 - Edit task details.
+- Delete Tasks
 - Responsive design for use on different devices.
 
 ## Technologies Used
@@ -24,6 +25,7 @@ No installation is required. Simply open the `task-new.html` file in a web brows
 ## Screenshots
 ![Task 1](https://github.com/Neeraj-Maini/Task-Tracker/assets/161563342/058feb72-2ea4-4f3a-99b4-4593455c8ef1)
 ![Task-2](https://github.com/Neeraj-Maini/Task-Tracker/assets/161563342/4d616782-8162-4dab-8f2c-d4e1836a0bee)
+![Task-3](https://github.com/Neeraj-Maini/Task-Tracker/assets/161563342/25bd4cc6-14dd-42fc-bae4-b24a434d0707)
 
 
 ## Contributing
